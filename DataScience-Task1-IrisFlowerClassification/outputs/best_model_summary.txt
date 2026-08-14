@@ -1,0 +1,6 @@
+Best Model: Logistic Regression
+Accuracy: 0.9333
+Precision (Macro): 0.9333
+Recall (Macro): 0.9333
+F1-score (Macro): 0.9333
+CV F1 Mean: 0.9580
