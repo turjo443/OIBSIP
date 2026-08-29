@@ -1,0 +1,7 @@
+
+Best Model: Linear Regression
+Test MAE: 1.4741
+Test RMSE: 2.7958
+Test R2: 0.6967
+Train rows: 239
+Test rows: 60
